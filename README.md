@@ -1,12 +1,12 @@
-# 📊 AdventureWorks Power BI Report  
+#  AdventureWorks Power BI Report  
 
-## 🚀 Project Overview  
+##  Project Overview  
 This project leverages the **AdventureWorks dataset**, a Microsoft sample database, to design a comprehensive business intelligence dashboard using **Power BI**.  
 The report demonstrates how raw business data can be transformed into **actionable insights** that support decision-making in sales, marketing, and product strategy.  
 
 ---
 
-## 🎯 Objectives  
+##  Objectives  
 - Analyze **sales performance** across products, regions, and time.  
 - Provide insights into **customer behavior and retention**.  
 - Identify **top-performing products** and profitability drivers.  
@@ -14,7 +14,7 @@ The report demonstrates how raw business data can be transformed into **actionab
 
 ---
 
-## 🛠️ Tools & Technologies  
+## Tools & Technologies  
 - Power BI Desktop  
 - AdventureWorks Dataset (SQL & CSV)  
 - DAX (Data Analysis Expressions)  
@@ -22,7 +22,7 @@ The report demonstrates how raw business data can be transformed into **actionab
 
 ---
 
-## 📈 Key Features  
+##  Key Features  
 - **Executive Dashboard**: KPIs for revenue, profit, growth trends  
 - **Sales Analysis**: Regional, product, and rep performance  
 - **Customer Insights**: Top customers, retention analysis  
@@ -31,7 +31,7 @@ The report demonstrates how raw business data can be transformed into **actionab
 
 ---
 
-## 🔑 Skills Demonstrated  
+##  Skills Demonstrated  
 - Data cleaning & transformation  
 - Star schema modeling  
 - Writing advanced DAX measures  
@@ -40,8 +40,8 @@ The report demonstrates how raw business data can be transformed into **actionab
 
 ---
 
-## 📷 Report Preview  
-*(Insert dashboard screenshots here for visualization)*  
+
+ 
 
 ---
 
